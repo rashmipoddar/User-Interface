@@ -71,6 +71,14 @@ h1, h2, h3, h4, h5 {
 	border: 2px solid red;
 } */
 
+.container {
+	width: 80%;
+	padding-top: 20px;
+	padding-bottom: 40px;	
+	margin-right: auto;
+	margin-left: auto;
+}
+
 header nav {
 	display: inline-block;
 }
@@ -150,17 +158,17 @@ section button {
 }
 .para {
 	display: inline-block;
-	width: 45%;
+	width: 49%;
 	margin-bottom: 20px;
 }
 
 .paraNext {
-	width: 25%;
+	width: 33%;
 	margin-top: 20px;
 }
 
 .mainContent img {
-	width: 80%;
+	width: 100%;
 }
 
 .mainContent h5 {
