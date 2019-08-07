@@ -64,3 +64,130 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+/* header .header{
+	display: inline-block;
+	width: 900px;
+	border: 2px solid red;
+} */
+
+.container {
+	width: 80%;
+	padding-top: 20px;
+	padding-bottom: 40px;	
+	margin-right: auto;
+	margin-left: auto;
+}
+
+header nav {
+	display: inline-block;
+}
+ 
+header img {
+	display: inline-block;
+	margin-left: 140px;
+	margin-top: 40px;
+}
+
+header nav a {
+	text-decoration: none;
+	color: gray;
+	padding: 10px;
+	/* border: 3px solid red; */
+	margin: 40px 50px;
+}
+
+section h1 {
+	display: inline-block;
+	/* border: 2px solid red; */
+	font-size: 80px;
+	padding: 100px;
+	width: 500px;
+	height: 700px;
+	text-align: center;
+	position: absolute;
+	left: 200px;
+	/* margin: 40px; */
+}
+
+.main img {
+	display: inline-block;
+	padding: 50px; 	
+	margin-left: 950px; 	
+	margin-top: 30px; 
+	/* border: 2px solid red; */
+	/* position: absolute; */
+}
+
+section button {
+	border: 2px solid black;
+	/* padding: 80px; */
+	position: absolute;
+	right: 40px;
+	left: 350px;
+	top: 430px;
+	height: 40px;
+	width: 200px;
+	font-size: 25px;
+}
+
+.main {
+	border-bottom: 1px solid black; 
+}
+
+/* .main {
+	display: inline-block;
+}
+
+.main img {
+	display: inline-block;
+	padding: 50px;
+	margin-left: 140px;
+} */
+
+.mainContent {
+	margin-left: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid black; 
+}
+
+.mainContent p {
+	width: 100%;
+	
+}
+.para {
+	display: inline-block;
+	width: 49%;
+	margin-bottom: 20px;
+}
+
+.paraNext {
+	width: 33%;
+	margin-top: 20px;
+}
+
+.mainContent img {
+	width: 100%;
+}
+
+.mainContent h5 {
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+
+footer {
+	margin-left: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding-bottom: 30px;
+}
+
+footer p {
+	text-align: center;
+}
+
+footer h6 {
+	padding: 10px;
+}
